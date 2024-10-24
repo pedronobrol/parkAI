@@ -1,5 +1,5 @@
 
-**This project was part of my university internship at the R&D department of Inetum, conducted during my studies at Universidad Politécnica de Madrid (UPM) in early 2022. I was awarded special distinction for my work. **
+*This project was part of my university internship at the R&D department of Inetum, conducted during my studies at Universidad Politécnica de Madrid (UPM) in early 2022. I was awarded special distinction for my work.*
 
 # parkAI: parking manager
 Car detector system for underground parking lots. 
